@@ -1,12 +1,13 @@
 {
-    "channelId": "",
     "categories": [
         {
             "name": "Category 1",
+            "channelId": "",
             "description": "this is the first category."
         },
         {
             "name": "Category 2",
+                "channelId": "",
             "description": "this is the second category."
         }
     ]

@@ -1,6 +1,6 @@
 # Suggestion Bot – Challenge
 
-This project was developed as part of the **Rolleite Challenge**. It implements a complete suggestion system using interactive components and commands on Discord.
+This project was developed as part of the **Rollerite Challenge**. It implements a complete suggestion system using interactive components and commands on Discord.
 
 ## Features
 
