@@ -1,0 +1,13 @@
+{
+    "channelId": "",
+    "categories": [
+        {
+            "name": "Category 1",
+            "description": "this is the first category."
+        },
+        {
+            "name": "Category 2",
+            "description": "this is the second category."
+        }
+    ]
+}
